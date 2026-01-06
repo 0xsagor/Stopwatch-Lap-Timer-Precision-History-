@@ -1,2 +1,14 @@
-# Stopwatch-Lap-Timer-Precision-History-
-High-precision stopwatch with lap recording &amp; history
+# Stopwatch & Lap Timer
+
+High-precision stopwatch with lap tracking.
+
+## Features
+- Start / stop / reset
+- Lap time recording
+- Millisecond precision
+
+## Run
+Open `index.html` in browser.
+
+## Purpose
+Timing logic & performance demo for GitHub portfolio.
